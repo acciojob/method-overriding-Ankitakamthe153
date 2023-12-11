@@ -9,6 +9,7 @@ public class Main {
     }
   }
 
+  
 
   public static class B extends class A{
     @Override
